@@ -1,3 +1,9 @@
 {
-    "data": []
+    "data": [
+        {
+            "id": 10,
+            "name": "Victor Nunes",
+            "email": "VictorNunes@gmail.com"
+        }
+    ]
 }
